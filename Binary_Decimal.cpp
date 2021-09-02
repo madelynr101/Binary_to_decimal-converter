@@ -7,7 +7,7 @@ int main()
 {
   int decimal; 
   int binary; 
-  char convert_decimal; // they do want to convert or no? 
+  char convert_decimal; // Do they do want to convert?
   char convert_binary; 
 
   do
